@@ -1,3 +1,35 @@
+# SUNK!
+### A Multiplayer head to head!
+Sink the enemy warships before you're **SUNK!**
+
+### Be Stratigic!
+Use cunning tactics and place your ships ( and submarine ) around the map! During the **Staging Phase** admirals can place their ships as they see fit. 🧠
+
+### Be Unwavering!
+Use your true sight and seek out the enemy ships in the **Attack Phase!** Penetrate their lines! ⚔
+
+### Be Noble and Kingly
+Bask in the glory of your victory! ⭐🤴✨
+
+## Rules
+### The rules are simple. 
+  1. During the Staging Phase, select where you want to place your ships ( and sub ). 
+    - Pick the rotation and Position to help defeat enemy attacks. 
+    
+  2. After selecting your positions, ready up for the Attack Phase.
+    - During the Attack Phase, each admiral will plot an area for a salvo. 
+    - If it strikes a ship, that ship will take damage.
+    - Hit all parts of the ship to sink it!
+    
+  3. Bask in the gloy of your victory!
+    - Why are you looking here? Use your imagination!
+    
+## Credit
+  - This entire project; assets, gameplay, and story was all created by me.
+
+
+### ***The Following is boilerplate for running this code on your machine using create-react-app.***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
