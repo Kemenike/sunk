@@ -1,0 +1,11 @@
+#header__container {
+    background-color:var(--primary-light-1);
+    display: flex;
+    justify-content: center;
+}
+
+.header__title_img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
