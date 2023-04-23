@@ -1,0 +1,16 @@
+#game__container { 
+   position: relative;
+   display: flex;
+   flex: 1 0 auto;
+   background-color: #005792;
+   align-items: center;
+   justify-content: center;
+}
+
+.item {
+   place-self: center;
+   border-radius: 16px;
+   aspect-ratio: 1;
+   width: 90%;
+   background-color: black;
+}

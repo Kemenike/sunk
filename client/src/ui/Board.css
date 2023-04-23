@@ -1,0 +1,13 @@
+#board__container {
+    display: grid;
+    grid-template: repeat(8, 1fr) / repeat(8, 1fr);
+    background-color: var(--primary-dark-1);
+    gap: 5px 5px;
+    height: 800px;
+    width: 800px;
+}
+
+.board__space {
+    border: 1px solid var(--primary-light-1);
+    border-radius: 8px;
+}
